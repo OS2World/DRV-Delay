@@ -1,0 +1,7 @@
+LIBRARY		DELAY
+DESCRIPTION	'$@#Bob Eager:2.1#@Startup delay driver'
+PROTMODE
+SEGMENTS
+		_DATA CLASS 'DATA'
+		_TEXT CLASS 'CODE'
+
